@@ -1,9 +1,21 @@
 # Vera Website
+### Udemy Project No.5
+### Course: Bootstrap 5 From Scratch | Build 5 Modern Websites <br> <br>
 
 Bootstrap Business website for software solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features.
 
-<img src="./images/screen.png" />
+<img src="./images/display.png" />
 
+
+## Languages and Technologies used in this project.
+
+- HTML
+- CSS 
+- Bootstrap 5
+- JavaScript
+- SASS
+
+  
 ## Features
 
 - Dark design with bright buttons & text for contrast
